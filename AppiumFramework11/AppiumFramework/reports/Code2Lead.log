@@ -1,0 +1,95 @@
+09/09/20 04:00:19 PM Wednesday - <module> - INFO : Launching app
+09/09/20 04:00:20 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:00:20 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:00:20 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:00:21 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:08:01 PM Wednesday - <module> - INFO : Launching app
+09/09/20 04:08:01 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:08:01 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:08:02 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:08:02 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:08:04 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 04:08:05 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 04:08:05 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 04:08:06 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 04:10:00 PM Wednesday - <module> - INFO : Launching app
+09/09/20 04:10:00 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:10:00 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:10:00 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:10:01 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 04:10:03 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 04:10:04 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 04:10:08 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 04:10:08 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:07:21 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:07:21 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:07:21 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:07:22 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:07:24 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:07:25 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:07:25 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:07:25 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:09:15 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:09:15 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:09:15 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:09:16 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:09:18 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:09:19 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:09:19 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:09:19 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:10:29 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:10:29 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:10:29 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:10:30 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:10:32 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:10:33 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:10:37 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:10:37 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:27:20 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:27:20 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:27:21 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:27:22 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:27:23 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:27:24 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:27:28 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:27:28 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:29:29 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:29:29 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:29:29 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:29:30 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:29:31 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:29:33 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:29:37 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:29:37 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:53:17 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:53:17 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:53:18 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:53:18 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 06:53:20 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:53:21 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 06:53:25 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 06:53:25 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 07:14:16 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:14:16 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:14:16 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:14:17 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:14:18 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 07:14:19 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 07:14:24 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 07:14:24 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 07:17:09 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:17:09 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:17:10 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:17:10 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 07:17:12 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 07:17:13 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 07:17:18 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 07:17:18 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 09:21:14 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 09:21:14 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 09:21:14 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 09:21:15 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+09/09/20 09:21:16 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 09:21:17 PM Wednesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+09/09/20 09:21:22 PM Wednesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+09/09/20 09:21:22 PM Wednesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit

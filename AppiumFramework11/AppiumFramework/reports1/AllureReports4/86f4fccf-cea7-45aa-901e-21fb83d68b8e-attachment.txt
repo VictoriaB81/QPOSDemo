@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:54 Element not found with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:84 Unable to send text on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextUserName

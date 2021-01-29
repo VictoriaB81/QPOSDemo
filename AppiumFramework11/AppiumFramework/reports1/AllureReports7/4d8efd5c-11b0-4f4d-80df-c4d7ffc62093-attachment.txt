@@ -1,0 +1,44 @@
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewPrint
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewPrint
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewTaskBarSearch
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewItemName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewPrint
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewPrint

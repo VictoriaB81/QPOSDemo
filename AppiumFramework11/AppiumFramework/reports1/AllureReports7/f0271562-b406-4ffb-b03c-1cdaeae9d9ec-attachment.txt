@@ -1,0 +1,58 @@
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewLogout
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewLogout
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button2
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button2
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextPassword
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextPassword
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonLogin
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonLogin
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,276][752,344]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,276][752,344]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,393][752,461]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,393][752,461]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,510][752,578]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,510][752,578]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,627][752,695]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,627][752,695]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,744][752,812]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,744][752,812]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,861][752,929]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,861][752,929]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,978][752,1046]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,978][752,1046]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,1094][752,1162]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,1094][752,1162]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonFinalSubmit
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonFinalSubmit
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,276][752,344]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,276][752,344]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,393][752,461]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,393][752,461]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,510][752,578]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,510][752,578]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,627][752,695]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,627][752,695]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,744][752,812]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,744][752,812]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,861][752,929]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,861][752,929]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,978][752,1046]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,978][752,1046]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.EditText[@bounds='[517,1094][752,1162]']
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@bounds='[517,1094][752,1162]']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonFinalSubmit
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonFinalSubmit
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/imageViewLogout
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/imageViewLogout

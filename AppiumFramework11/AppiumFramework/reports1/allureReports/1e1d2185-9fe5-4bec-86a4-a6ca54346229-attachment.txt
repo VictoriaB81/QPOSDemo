@@ -1,0 +1,16 @@
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextLicenseKey
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonSubmit
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonSubmit
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:94  Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextUserNameis displayed 
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editTextUserName
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/buttonLogin
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/buttonLogin

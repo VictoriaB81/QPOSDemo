@@ -1,0 +1,22 @@
+Appium
+XURU7PFT
+
+
+Clinet admin credentials:
+user90	
+1234
+
+Cloud mode
+#el1 = driver.find_element_by_id("com.quinta.qpos:id/imageView6")
+el1.click()
+#Click on select
+el2 = driver.find_element_by_id("com.quinta.qpos:id/spinnerUrls")
+el2.click()
+#Test Server
+el3 = driver.find_element_by_xpath("//android.widget.TextView[@text='Test Server']").click()
+el3.click()
+#Click on submit
+el4 = driver.find_element_by_id("com.quinta.qpos:id/buttonSubmit")
+el4.click()
+
+//*[@id="confirmation"]/div/div/div[3]/button[2]

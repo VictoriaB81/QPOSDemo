@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:54 Element not found with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button
+[32mINFO    [0m BasePage:BasePage.py:70 Unable to click on Element with LocatorType: id and with the locatorValue :com.android.packageinstaller:id/permission_allow_button

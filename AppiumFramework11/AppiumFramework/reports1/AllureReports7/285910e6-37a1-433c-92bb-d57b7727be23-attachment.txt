@@ -1,0 +1,72 @@
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewCard
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewCard
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewWallet
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewWallet
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewCoupon
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewCoupon
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewCard
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewCard
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewWallet
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewWallet
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='A2 Cow Ghee 500ml1']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: xpath with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@text='Almonds Premium 250g']
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewTotalAmount
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/textViewCoupon
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/textViewCoupon
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:81 Send text  on Element with LocatorType: id and with the locatorValue :com.quinta.qpos:id/editText
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :android:id/button1
+[32mINFO    [0m BasePage:BasePage.py:67 Clicked on Element with LocatorType: id and with the locatorValue :android:id/button1
